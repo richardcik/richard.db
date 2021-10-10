@@ -1,6 +1,8 @@
 ## Nedir bu Richard.db ?
 Json tabanlı çalışan bir veritabanıdır, sadeliği ve türkçe komutları ile hızlı ve güvenli çalışmaktadır.
 
+<img src="https://komarev.com/ghpvc/?username=2020-agustos-guard&label=Proje%20Ziyareti&color=blueviolet" alt="richardcik/2020-agustos-guard/edit/main/" /> <p>
+ 
 ## Nasıl json tanımlarım?
 ```js
 /// Önce Tanımlama yapalım
